@@ -1,2 +1,5 @@
 # NETFLIX-clone
-![Uploading image.png…]()
+
+![Uploading netflix-clone1.png…]()
+
+![Uploading netflic-clone2.png…]()
